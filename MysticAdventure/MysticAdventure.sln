@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MysticAdventure", "MysticAdventure\MysticAdventure.csproj", "{418C3008-9B17-4D6E-908B-56969FFF219A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{D11F0582-8D83-4ED9-8CFE-E369679A6BE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{418C3008-9B17-4D6E-908B-56969FFF219A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418C3008-9B17-4D6E-908B-56969FFF219A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418C3008-9B17-4D6E-908B-56969FFF219A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418C3008-9B17-4D6E-908B-56969FFF219A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D11F0582-8D83-4ED9-8CFE-E369679A6BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11F0582-8D83-4ED9-8CFE-E369679A6BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11F0582-8D83-4ED9-8CFE-E369679A6BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11F0582-8D83-4ED9-8CFE-E369679A6BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {354250F7-F50C-4353-99EC-8B62F9A84DB1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\game\MysticAdventure\MysticAdventure\bin\Release\MysticAdventure.exe.config
+C:\game\MysticAdventure\MysticAdventure\bin\Release\MysticAdventure.exe
+C:\game\MysticAdventure\MysticAdventure\bin\Release\MysticAdventure.pdb
+C:\game\MysticAdventure\MysticAdventure\bin\Release\Engine.dll
+C:\game\MysticAdventure\MysticAdventure\bin\Release\Engine.pdb
+C:\game\MysticAdventure\MysticAdventure\obj\Release\MysticAdventure.csprojAssemblyReference.cache
+C:\game\MysticAdventure\MysticAdventure\obj\Release\MysticAdventure.MysticAdventure.resources
+C:\game\MysticAdventure\MysticAdventure\obj\Release\MysticAdventure.Properties.Resources.resources
+C:\game\MysticAdventure\MysticAdventure\obj\Release\MysticAdventure.csproj.GenerateResource.cache
+C:\game\MysticAdventure\MysticAdventure\obj\Release\MysticAdventure.csproj.CoreCompileInputs.cache
+C:\game\MysticAdventure\MysticAdventure\obj\Release\MysticAdventure.csproj.CopyComplete
+C:\game\MysticAdventure\MysticAdventure\obj\Release\MysticAdventure.exe
+C:\game\MysticAdventure\MysticAdventure\obj\Release\MysticAdventure.pdb

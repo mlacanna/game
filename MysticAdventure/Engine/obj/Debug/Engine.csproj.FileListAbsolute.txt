@@ -1,0 +1,6 @@
+C:\game\MysticAdventure\Engine\bin\Debug\Engine.dll
+C:\game\MysticAdventure\Engine\bin\Debug\Engine.pdb
+C:\game\MysticAdventure\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\game\MysticAdventure\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\game\MysticAdventure\Engine\obj\Debug\Engine.dll
+C:\game\MysticAdventure\Engine\obj\Debug\Engine.pdb
